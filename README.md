@@ -1,4 +1,6 @@
-# Refrence
+# angualr-samples-reference
+
+A reference project contains samples of various features has implemented in angular frameWork
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 17.3.4.
 
